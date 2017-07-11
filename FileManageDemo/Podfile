@@ -1,0 +1,7 @@
+platform :ios,'8.0'
+target 'FileManageDemo' do
+use_frameworks!
+
+pod 'FCFileManager', '~> 1.0'
+
+end
